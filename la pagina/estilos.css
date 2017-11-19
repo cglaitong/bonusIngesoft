@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+body{
+  font-family: 'Lato', sans-serif;
+}
+.jumbotron{
+
+	background-color: #13124f;
+	color :white;
+	margin-bottom:15px;
+	padding-top:10px;
+
+}
+
+.centrardoscinco{ 
+
+
+padding-left:2.5%;
+margin-top:15px;
+
+
+}
+.centrartres{ 
+
+
+padding-left:3%;
+
+}		
+
+.bajar{
+
+margin-bottom:40px;
+
+}
+.fuente{
+
+font-size: 16px ;
+
+}
+
+.R1{
+ width: 100% ;
+ height:35px;
+ background-color: #f61067; 
+ margin-top: 30px;
+ margin-bottom:20px; 
+
+
+}
+.R2{
+ width: 100% ;
+ height:45px;
+ background-color: #9090A5;  
+ padding:15px;
+ padding-top:13px;
+
+
+}
+.R3{
+ width: 100% ;
+ height:180px;
+ background-color: #13124f;  
+ padding:15px;
+
+
+
+}
+.R4{
+ width: 100% ;
+ height:35px;
+ background-color: #352BA5;  
+ margin-bottom:25px;
+
+}
+.R5{
+
+ width: 100% ;
+ height:160px;
+ border-style: solid;
+ border-width: 2px;
+ border-color: #9090A5;
+
+
+
+}
+.bt1 {
+
+	border-radius: 0;
+	background-color: #f61067 ;
+    color:white;
+}
+.bt2{
+border-radius: 0;
+	background-color: #f61067 ;
+ color:white;
+ margin-top:20px;
+ margin-bottom:  20px;
+}
+
+.w100{
+
+	 width:100px;
+}
+}
+.btn:active{
+	box-shadow: none;
+}
+.form-control{
+	  border-radius: 0;
+	  color: #9090a5;
+	  border-top: 2px solid #9090a5;
+	  border-bottom: 3px solid #9090a5;
+	  margin-top:15px;
+	  background-color:#352BA5;
+
+
+
+
+}
+.pr20{
+	padding-right:10px;
+}
+.pl20{
+	padding-left:10px;
+}
+.p1{
+	 padding-top:5px;
+	 text-align: center;
+	 text-decoration: underline;
+}
+.p2{
+		padding:10px; 
+
+
+}
+.plr{
+padding-right:10px;
+padding-left:10px;
+
+}
+.w95{
+	width:97%;
+	padding-left:10px;
+}
+.progress{
+
+	height: 10px;
+}
+.green {
+
+background-color: #2AD392;		
+
+}
+.pink {
+
+background-color: #f61067;
+
+}
+.b50{
+	width:48.2%;
+	padding:10px;
+}
+.ml10{
+	margin-left:10px;
+	background-color: white;
+    color: #2AD392;
+    border: 2px solid #2AD392; /* Green */
+
+}
+.wt{
+
+	color:white;
+}
+.bold{
+
+	 font-weight: bold;
+}
+
+.cir{
+	border-radius: 50%;
+	background-color: #352BA5;
+	color :white;
+	height:17px;
+	width: 19px;
+	display: inline-block;
+	font-size: 12px;
+	text-align: center;
+	
+	padding-right: 1px;
+	padding-top: 2px;
+}
+.ft{
+
+ font-family: 'Lato', sans-serif;
+
+}
